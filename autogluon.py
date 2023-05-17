@@ -4,12 +4,6 @@ import copy
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from datetime import datetime
-from datetime import timedelta
-from time import time
-from time import sleep
-import copy
-import requests    
 from autogluon.timeseries import TimeSeriesDataFrame, TimeSeriesPredictor
 from autogluon.tabular import TabularDataset, TabularPredictor
 from functions_autogluon import functions
