@@ -17,8 +17,9 @@ which change the trend?
 3. which of the recent "bis" forecasts more accurately reflects the trend?
 Whether the forecast "bis" "upper" or the forecast "bis" "lower"?
 
+
 ---
----
+
 
 Calculation of "bis" forecasts:
 
@@ -31,16 +32,18 @@ forecast 'bis' upper = future forecast + forecast difference
 ----------------------------------------------------------------------------
 forecast 'bis' lower = past forecast - forecast difference 
 
+
 ---
----
+
 
 Crystallizing answer to question #1:
 Preliminary random testing suggests a negative answer.
 Forecast 'bis' upper together with forecast 'bis' lower with low frequency determine a smaller difference in confidence levels than analogous standard deviations could do.
 ( forecast 'bis' upper - forecast 'bis' lower > std upper - std lower )
 
+
 ---
----
+
 
 Further research should be more focused on seeking answers to question number 3. and, more importantly, to question number 2. .
 
