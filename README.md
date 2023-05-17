@@ -1,7 +1,6 @@
 # EXPERIMENT_WITH_AUTOGLUON
 A FORECAST OF THE PAST BASED ON A FORECAST OF THE FUTURE 
 
-
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 Through this experiment an attempt is made to answer the question:
