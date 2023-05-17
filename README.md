@@ -3,6 +3,7 @@ A FORECAST OF THE PAST BASED ON A FORECAST OF THE FUTURE
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
+
 Through this experiment an attempt is made to answer the question:
 
 1. whether the mentioned forecasts can be used as confidence levels:
@@ -20,8 +21,13 @@ Whether the forecast "bis" "upper" or the forecast "bis" "lower"?
 
 Calculation of "bis" forecasts:
 
+
 forecast difference = future forecast - past forecast
+
+----------------------------------------------------------------------------
 forecast 'bis' upper = future forecast + forecast difference
+
+----------------------------------------------------------------------------
 forecast 'bis' lower = past forecast - forecast difference 
 
 ----------------------------------------------------------------------------
