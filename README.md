@@ -6,7 +6,7 @@ Through this experiment an attempt is made to answer the question:
 
 1. whether the mentioned forecasts can be used as confidence levels:
 
-which reduce the field of probability of occurrence of future values, compared to the same field of probability determined by using the standard deviation?
+  which reduce the field of probability of occurrence of future values, compared to the same field of probability determined by using the standard deviation?
 
 2. are there correlations between the said forecasts and the standard deviation:
 which change the trend?
@@ -16,6 +16,7 @@ Whether the forecast "bis" "upper" or the forecast "bis" "lower"?
 
 
 Calculation of "bis" forecasts:
+
 forecast difference = future forecast - past forecast
 forecast 'bis' upper = future forecast + forecast difference
 forecast 'bis' lower = past forecast - forecast difference 
